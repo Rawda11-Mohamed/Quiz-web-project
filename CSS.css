@@ -1,0 +1,223 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333;
+}
+.info_title {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    color:#0078d4;
+}
+.info_list {
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    border: 1px solid #0078d4;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #0078d4;
+    color: white;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.nav-buttons button {
+    flex: 1;
+    margin: 0 5px;
+}
+
+button:hover {
+    background-color: #005bb5;
+    transform: scale(1.05);
+}
+.title{
+    color:#0078d4;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Quiz Box */
+.quiz_box,
+.info_box,
+.result_box {
+    display: none;
+    width: 450px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    padding: 40px;
+    text-align: center;
+}
+
+.start_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.info_box.active,
+.quiz_box.active,
+.result_box.active {
+    display: block;
+    padding: 20px;
+    text-align: center;
+}
+
+.que_text {
+    font-size: 23px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #444;
+}
+
+.option_list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.option {
+    background: #f7f7f7;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.option:hover {
+    background-color: #e0f7fa;
+    border-color: #0078d4;
+    transform: scale(1.02);
+}
+.option.correct {
+    background-color: #4caf50;
+    color: white;
+}
+
+.option.incorrect {
+    background-color: #f44336;
+    color: white;
+}
+
+.option.disabled {
+    pointer-events: none;
+    opacity: 0.6;
+}
+.timer {
+    font-size: 14px;
+    background-color: #ff475f;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+    position: relative; 
+    top: -10px;
+}
+#questionCounter {
+    font-size: 16px;
+    font-weight: bold;
+    color: #495057;
+    margin-right: 10px;
+    border-radius: 5px;
+
+}
+.result-message {
+    font-size: 24px;
+    font-weight: bold;
+    color: #4caf50;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 2px solid #4caf50;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #fff3f4;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+.score-display {
+    font-size: 20px;
+    font-weight: bold;
+    color: #0078d4; 
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.next-btn {
+    background-color: #4CAF50; 
+    color: white;
+}
+
+.next-btn:hover {
+    background-color: #45a049; 
+    transform: translateY(-2px); 
+}
+.next-btn:active {
+    background-color: #388e3c; 
+    transform: translateY(2px); 
+}
+
+.submit-btn {
+    background-color: #2196F3; 
+    color: white;
+    
+}
+
+.submit-btn:hover {
+    background-color: #1976D2;
+    transform: translateY(-2px); 
+}
+
+.submit-btn:active {
+    background-color: #1565C0; 
+    transform: translateY(2px); 
+}
+
+button:disabled {
+    background-color: #bdbdbd; 
+    cursor: not-allowed;
+}
+
+button:disabled:hover {
+    background-color: #bdbdbd; 
+}
+
+/* Style for the info list container */
+.info_list {
+    text-align: left; 
+    font-size: 20px; 
+    margin-bottom: 20px; 
+}
+
+.info {
+    margin-bottom: 10px; 
+    line-height: 1.6; 
+    font-weight: 500;
+}
+
+

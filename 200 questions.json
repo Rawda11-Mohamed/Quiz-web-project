@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "What is the word for a set of instructions that a computer follows to perform a task?",
+    "options": [
+      "Algorithm",
+      "Program",
+      "Function",
+      "Routine"
+    ],
+    "answer": "Algorithm"
+  },
+  {
+    "question": "Which of the following is used to style web pages?",
+    "options": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "answer": "CSS"
+  },
+  {
+    "question": "Which algorithm is used for classification problems?",
+    "options": [
+      "Linear Regression",
+      "Logistic Regression",
+      "K-Means Clustering",
+      "Breadth-First Search"
+    ],
+    "answer": "Logistic Regression"
+  },
+  {
+    "question": "What does the acronym 'SDLC' stand for?",
+    "options": [
+      "Software Development Life Cycle",
+      "System Design and Logical Control",
+      "Structured Development Language Code",
+      "Software Deployment Logical Circuit"
+    ],
+    "answer": "Software Development Life Cycle"
+  },
+  {
+    "question": "Which framework is commonly used for cross-platform mobile app development?",
+    "options": [
+      "React Native",
+      "Django",
+      "TensorFlow",
+      "Kubernetes"
+    ],
+    "answer": "React Native"
+  },
+  {
+    "question": "Which protocol is used to transfer files over the internet?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "DNS"
+    ],
+    "answer": "FTP"
+  },
+  {
+    "question": "Which of the following is a NoSQL database?",
+    "options": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "OracleDB"
+    ],
+    "answer": "MongoDB"
+  },
+  {
+    "question": "Which language is primarily used for Android app development?",
+    "options": [
+      "Swift",
+      "Java",
+      "C++",
+      "Python"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What does the term 'phishing' refer to?",
+    "options": [
+      "Unauthorized access to a system",
+      "Sending fake emails to steal information",
+      "Malware that encrypts data for ransom",
+      "A denial-of-service attack"
+    ],
+    "answer": "Sending fake emails to steal information"
+  },
+  {
+    "question": "Which of the following is an open-source operating system?",
+    "options": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "iOS"
+    ],
+    "answer": "Linux"
+  },
+  {
+    "question": "Which term refers to a machine's ability to simulate human intelligence?",
+    "options": [
+      "Machine Learning",
+      "Deep Learning",
+      "Artificial Intelligence",
+      "Neural Networks"
+    ],
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "question": "What is the main use of HTML in web development?",
+    "options": [
+      "Styling web pages",
+      "Structuring content",
+      "Writing server-side logic",
+      "Handling user inputs"
+    ],
+    "answer": "Structuring content"
+  },
+  {
+    "question": "Which HTTP method is used to update existing resources?",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "answer": "PUT"
+  },
+  {
+    "question": "Which language is primarily used for iOS app development?",
+    "options": [
+      "Java",
+      "Kotlin",
+      "Swift",
+      "C#"
+    ],
+    "answer": "Swift"
+  },
+  {
+    "question": "Which data structure is used to implement recursion?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Array",
+      "Graph"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "question": "Which CSS property controls text size?",
+    "options": [
+      "font-size",
+      "text-size",
+      "size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "question": "What is the primary purpose of Docker?",
+    "options": [
+      "Cloud storage",
+      "Containerization",
+      "Data analysis",
+      "Network monitoring"
+    ],
+    "answer": "Containerization"
+  },
+  {
+    "question": "Which algorithm is commonly used for sorting in computer science?",
+    "options": [
+      "Breadth-First Search",
+      "Merge Sort",
+      "Dijkstra's Algorithm",
+      "Bellman-Ford"
+    ],
+    "answer": "Merge Sort"
+  },
+  {
+    "question": "Which of the following is a supervised learning technique?",
+    "options": [
+      "K-Means",
+      "Linear Regression",
+      "Apriori",
+      "DBSCAN"
+    ],
+    "answer": "Linear Regression"
+  },
+  {
+    "question": "Which database is designed for large-scale data warehousing?",
+    "options": [
+      "Redis",
+      "Cassandra",
+      "Amazon Redshift",
+      "SQLite"
+    ],
+    "answer": "Amazon Redshift"
+  },
+  {
+    "question": "Which of the following is a Python web framework?",
+    "options": [
+      "Django",
+      "Laravel",
+      "Flask",
+      "Spring"
+    ],
+    "answer": "Django"
+  },
+  {
+    "question": "What is JSON primarily used for in web development?",
+    "options": [
+      "Data transfer",
+      "Styling",
+      "Server communication",
+      "User authentication"
+    ],
+    "answer": "Data transfer"
+  },
+  {
+    "question": "Which of the following is a non-relational database?",
+    "options": [
+      "MySQL",
+      "PostgreSQL",
+      "CouchDB",
+      "OracleDB"
+    ],
+    "answer": "CouchDB"
+  },
+  {
+    "question": "What does the term 'responsive design' refer to?",
+    "options": [
+      "Designing fast-loading pages",
+      "Designing for accessibility",
+      "Designing adaptable layouts",
+      "Designing interactive elements"
+    ],
+    "answer": "Designing adaptable layouts"
+  },
+  {
+    "question": "Which protocol is used for secure data transmission over the internet?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SSL/TLS",
+      "SMTP"
+    ],
+    "answer": "SSL/TLS"
+  },
+  {
+    "question": "What does 'CRUD' stand for in databases?",
+    "options": [
+      "Create, Read, Update, Delete",
+      "Cache, Read, Update, Delete",
+      "Copy, Retrieve, Update, Delete",
+      "Create, Restore, Undo, Delete"
+    ],
+    "answer": "Create, Read, Update, Delete"
+  },
+  {
+    "question": "Which machine learning library is developed by Google?",
+    "options": [
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Scikit-learn"
+    ],
+    "answer": "TensorFlow"
+  },
+  {
+    "question": "Which mobile operating system uses Kotlin as a preferred language?",
+    "options": [
+      "iOS",
+      "Android",
+      "Windows Phone",
+      "BlackBerry OS"
+    ],
+    "answer": "Android"
+  },
+  {
+    "question": "Which HTTP status code indicates 'Not Found'?",
+    "options": [
+      "200",
+      "403",
+      "404",
+      "500"
+    ],
+    "answer": "404"
+  },
+  {
+    "question": "Which technology is used for building component-based user interfaces in web development?",
+    "options": [
+      "React",
+      "Angular",
+      "Vue.js",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which term describes the practice of protecting networks and systems from digital attacks?",
+    "options": [
+      "Data Science",
+      "Cybersecurity",
+      "Software Engineering",
+      "System Architecture"
+    ],
+    "answer": "Cybersecurity"
+  },
+  {
+    "question": "Which operation is used to combine datasets in SQL?",
+    "options": [
+      "JOIN",
+      "MERGE",
+      "GROUP BY",
+      "PARTITION"
+    ],
+    "answer": "JOIN"
+  },
+  {
+    "question": "What is the role of a firewall in network security?",
+    "options": [
+      "Encrypting data",
+      "Blocking unauthorized access",
+      "Authenticating users",
+      "Managing bandwidth"
+    ],
+    "answer": "Blocking unauthorized access"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Automated Process Integration",
+      "Application Performance Indicator",
+      "Automated Programming Instruction"
+    ],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "question": "Which language is known for its simplicity and use in AI development?",
+    "options": [
+      "Python",
+      "Java",
+      "C#",
+      "Ruby"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the use of Git in software development?",
+    "options": [
+      "Code compilation",
+      "Version control",
+      "Testing",
+      "Documentation"
+    ],
+    "answer": "Version control"
+  },
+  {
+    "question": "What does 'scalability' mean in software systems?",
+    "options": [
+      "Ability to add more users",
+      "Ability to handle increased load",
+      "Ability to update software",
+      "All of the above"
+    ],
+    "answer": "Ability to handle increased load"
+  },
+  {
+    "question": "Which of the following is a frontend development framework?",
+    "options": [
+      "Node.js",
+      "Laravel",
+      "Angular",
+      "Spring Boot"
+    ],
+    "answer": "Angular"
+  },
+  {
+    "question": "What is the purpose of unit testing in software development?",
+    "options": [
+      "Testing the entire system",
+      "Testing individual components",
+      "Integration of modules",
+      "Deployment testing"
+    ],
+    "answer": "Testing individual components"
+  },
+  {
+    "question": "Which keyword is used in Python to define a function?",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "answer": "def"
+  },
+  {
+    "question": "What does the term 'inheritance' mean in object-oriented programming?",
+    "options": [
+      "Sharing variables",
+      "Reusing methods",
+      "Extending classes",
+      "None of the above"
+    ],
+    "answer": "Extending classes"
+  },
+  {
+    "question": "Which of the following is an example of a static website?",
+    "options": [
+      "Portfolio",
+      "E-commerce",
+      "Social Media",
+      "Blog"
+    ],
+    "answer": "Portfolio"
+  },
+  {
+    "question": "Which of the following is a characteristic of a cloud-based database?",
+    "options": [
+      "Local storage",
+      "Remote data access",
+      "Data encryption",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which one is an IDE commonly used for Java?",
+    "options": [
+      "IntelliJ",
+      "Eclipse",
+      "NetBeans",
+      "All of above"
+    ],
+    "answer": "Eclipse"
+  },
+  {
+    "question": "What is the primary purpose of a version control system like Git?",
+    "options": [
+      "Track changes in code",
+      "Compile code",
+      "Deploy code",
+      "Create user interfaces"
+    ],
+    "answer": "Track changes in code"
+  },
+  {
+    "question": "Which of the following is an example of an interpreted language?",
+    "options": [
+      "Java",
+      "C++",
+      "Python",
+      "C#"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "Which of these is an example of a static typing language?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "Ruby"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "Which of the following is used for database transactions?",
+    "options": [
+      "ACID",
+      "TCP",
+      "FTP",
+      "REST"
+    ],
+    "answer": "ACID"
+  },
+  {
+    "question": "Which of the following is a cloud service provider?",
+    "options": [
+      "AWS",
+      "Windows",
+      "Linux",
+      "Ubuntu"
+    ],
+    "answer": "AWS"
+  },
+  {
+    "question": "Which of the following is a feature of a relational database?",
+    "options": [
+      "Schemas",
+      "Key-value stores",
+      "Tables",
+      "None of the above"
+    ],
+    "answer": "Tables"
+  },
+  {
+    "question": "Which term refers to software that is designed to harm or exploit any device, service, or network?",
+    "options": [
+      "Malware",
+      "Firewall",
+      "Spyware",
+      "Adware"
+    ],
+    "answer": "Malware"
+  },
+  {
+    "question": "Which of the following is used to create dynamic web pages?",
+    "options": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which of the following is a commonly used JavaScript library?",
+    "options": [
+      "React",
+      "Spring",
+      "Laravel",
+      "Django"
+    ],
+    "answer": "React"
+  },
+  {
+    "question": "Which data structure stores elements in a last-in, first-out (LIFO) order?",
+    "options": [
+      "Queue",
+      "Array",
+      "Stack",
+      "Linked List"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "question": "Which programming language is mainly used for iOS app development?",
+    "options": [
+      "Java",
+      "Swift",
+      "C#",
+      "JavaScript"
+    ],
+    "answer": "Swift"
+  },
+  {
+    "question": "Which of the following is used to test web APIs?",
+    "options": [
+      "Postman",
+      "Visual Studio",
+      "IntelliJ",
+      "Eclipse"
+    ],
+    "answer": "Postman"
+  },
+  {
+    "question": "Which of these is an example of a markup language?",
+    "options": [
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "Python"
+    ],
+    "answer": "HTML"
+  },
+  {
+    "question": "Which of the following is the process of finding and fixing bugs in a software application?",
+    "options": [
+      "Debugging",
+      "Compiling",
+      "Refactoring",
+      "Testing"
+    ],
+    "answer": "Debugging"
+  },
+  {
+    "question": "Which of these is a cloud computing model for running applications in a virtualized environment?",
+    "options": [
+      "SaaS",
+      "PaaS",
+      "IaaS",
+      "FaaS"
+    ],
+    "answer": "PaaS"
+  },
+  {
+    "question": "Which of the following is used to implement machine learning algorithms in Python?",
+    "options": [
+      "TensorFlow",
+      "Flask",
+      "Django",
+      "React"
+    ],
+    "answer": "TensorFlow"
+  },
+  {
+    "question": "Which protocol is used to secure HTTP traffic?",
+    "options": [
+      "HTTPS",
+      "SMTP",
+      "FTP",
+      "IPsec"
+    ],
+    "answer": "HTTPS"
+  },
+  {
+    "question": "What is the primary use of a Content Management System (CMS)?",
+    "options": [
+      "Managing hardware resources",
+      "Managing website content",
+      "Managing network security",
+      "Managing databases"
+    ],
+    "answer": "Managing website content"
+  },
+  {
+    "question": "Which of the following is an open-source database management system?",
+    "options": [
+      "MySQL",
+      "Oracle",
+      "SQL Server",
+      "DB2"
+    ],
+    "answer": "MySQL"
+  },
+  {
+    "question": "What does the acronym 'HTML' stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "High Text Markup Language",
+      "Hyper Transfer Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "question": "Which of the following is a feature of the Agile software development methodology?",
+    "options": [
+      "Iterative development",
+      "Waterfall approach",
+      "Rigid structure",
+      "None of the above"
+    ],
+    "answer": "Iterative development"
+  },
+  {
+    "question": "Which of the following is a popular cloud-based version control system?",
+    "options": [
+      "GitHub",
+      "Bitbucket",
+      "GitLab",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to display data in a graphical format on a webpage?",
+    "options": [
+      "Canvas",
+      "SVG",
+      "Both Canvas and SVG",
+      "None of the above"
+    ],
+    "answer": "Both Canvas and SVG"
+  },
+  {
+    "question": "Which of the following is a relational database?",
+    "options": [
+      "MongoDB",
+      "CouchDB",
+      "MySQL",
+      "Redis"
+    ],
+    "answer": "MySQL"
+  },
+  {
+    "question": "Which of the following refers to the separation of concerns in software design?",
+    "options": [
+      "Modularity",
+      "Encapsulation",
+      "Inheritance",
+      "Polymorphism"
+    ],
+    "answer": "Modularity"
+  },
+  {
+    "question": "Which of the following is commonly used for testing JavaScript applications?",
+    "options": [
+      "Jest",
+      "JUnit",
+      "PyTest",
+      "Mocha"
+    ],
+    "answer": "Jest"
+  },
+  {
+    "question": "Which of these is a tool used to automate deployment processes?",
+    "options": [
+      "Jenkins",
+      "GitHub",
+      "Docker",
+      "Slack"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "question": "Which of the following is a machine learning algorithm used for regression?",
+    "options": [
+      "K-Means",
+      "Logistic Regression",
+      "Linear Regression",
+      "Naive Bayes"
+    ],
+    "answer": "Linear Regression"
+  },
+  {
+    "question": "Which of the following is used for parsing and transforming data in Python?",
+    "options": [
+      "Pandas",
+      "Flask",
+      "Django",
+      "TensorFlow"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "question": "Which algorithm is used to find the shortest path in a graph?",
+    "options": [
+      "Dijkstra's Algorithm",
+      "Bellman-Ford Algorithm",
+      "QuickSort",
+      "Merge Sort"
+    ],
+    "answer": "Dijkstra's Algorithm"
+  },
+  {
+    "question": "What does the acronym 'REST' stand for in web services?",
+    "options": [
+      "Remote System Testing",
+      "Representational State Transfer",
+      "Reusable State Transfer",
+      "Real-Time State Transfer"
+    ],
+    "answer": "Representational State Transfer"
+  },
+  {
+    "question": "Which of the following is a version of the Python programming language?",
+    "options": [
+      "Python 2.x",
+      "Python 3.x",
+      "Both Python 2.x and Python 3.x",
+      "None of the above"
+    ],
+    "answer": "Both Python 2.x and Python 3.x"
+  },
+  {
+    "question": "Which of the following is an example of an iterative sorting algorithm?",
+    "options": [
+      "QuickSort",
+      "Merge Sort",
+      "Insertion Sort",
+      "Bubble Sort"
+    ],
+    "answer": "Bubble Sort"
+  },
+  {
+    "question": "Which of the following can be used for frontend web development?",
+    "options": [
+      "Vue.js",
+      "Angular",
+      "React",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used for database indexing?",
+    "options": [
+      "B-tree",
+      "Hashing",
+      "Both B-tree and Hashing",
+      "None of the above"
+    ],
+    "answer": "Both B-tree and Hashing"
+  },
+  {
+    "question": "Which HTTP method is used to retrieve data from a server?",
+    "options": [
+      "POST",
+      "GET",
+      "PUT",
+      "DELETE"
+    ],
+    "answer": "GET"
+  },
+  {
+    "question": "Which of the following is a feature of NoSQL databases?",
+    "options": [
+      "Flexible schema",
+      "ACID transactions",
+      "SQL queries",
+      "Strict data structure"
+    ],
+    "answer": "Flexible schema"
+  },
+  {
+    "question": "Which of the following is an example of a functional programming language?",
+    "options": [
+      "Java",
+      "C#",
+      "Haskell",
+      "Python"
+    ],
+    "answer": "Haskell"
+  },
+  {
+    "question": "What is the main purpose of a load balancer in a web application?",
+    "options": [
+      "Distribute traffic across servers",
+      "Encrypt data",
+      "Monitor network traffic",
+      "Store data"
+    ],
+    "answer": "Distribute traffic across servers"
+  },
+  {
+    "question": "Which of the following is an example of a relational database management system (RDBMS)?",
+    "options": [
+      "MongoDB",
+      "PostgreSQL",
+      "Cassandra",
+      "CouchDB"
+    ],
+    "answer": "PostgreSQL"
+  },
+  {
+    "question": "Which of the following is used to improve the performance of a database query?",
+    "options": [
+      "Indexes",
+      "Normalization",
+      "De-normalization",
+      "All of the above"
+    ],
+    "answer": "Indexes"
+  },
+  {
+    "question": "What is the main function of a proxy server?",
+    "options": [
+      "Filter web traffic",
+      "Host a website",
+      "Store user data",
+      "Manage database queries"
+    ],
+    "answer": "Filter web traffic"
+  },
+  {
+    "question": "Which of these is an example of a distributed version control system?",
+    "options": [
+      "Git",
+      "SVN",
+      "Mercurial",
+      "Both Git and Mercurial"
+    ],
+    "answer": "Both Git and Mercurial"
+  },
+  {
+    "question": "Which of the following is a popular tool for automating software testing?",
+    "options": [
+      "Selenium",
+      "Jenkins",
+      "Docker",
+      "Vagrant"
+    ],
+    "answer": "Selenium"
+  },
+  {
+    "question": "Which of these is used for container orchestration?",
+    "options": [
+      "Docker",
+      "Kubernetes",
+      "Vagrant",
+      "Ansible"
+    ],
+    "answer": "Kubernetes"
+  },
+  {
+    "question": "Which language is used for server-side scripting in web development?",
+    "options": [
+      "JavaScript",
+      "PHP",
+      "HTML",
+      "CSS"
+    ],
+    "answer": "PHP"
+  },
+  {
+    "question": "Which of the following is used to deploy web applications in containers?",
+    "options": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which algorithm is commonly used for searching in an unsorted list?",
+    "options": [
+      "Linear Search",
+      "Binary Search",
+      "QuickSort",
+      "Merge Sort"
+    ],
+    "answer": "Linear Search"
+  },
+  {
+    "question": "Which of the following is used for asynchronous JavaScript programming?",
+    "options": [
+      "Promises",
+      "Callbacks",
+      "Async/Await",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "Sequential Query Language"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "question": "Which of the following is used to handle errors in JavaScript?",
+    "options": [
+      "try...catch",
+      "throw",
+      "finally",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a common use case of Redis?",
+    "options": [
+      "Caching",
+      "Data storage",
+      "Task queues",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a popular framework for building REST APIs in Python?",
+    "options": [
+      "Flask",
+      "Django",
+      "FastAPI",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a machine learning algorithm used for clustering?",
+    "options": [
+      "K-Means",
+      "Linear Regression",
+      "Logistic Regression",
+      "Decision Trees"
+    ],
+    "answer": "K-Means"
+  },
+  {
+    "question": "Which of the following is used for continuous integration/continuous deployment (CI/CD)?",
+    "options": [
+      "Jenkins",
+      "CircleCI",
+      "Travis CI",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a language used to style web pages?",
+    "options": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "PHP"
+    ],
+    "answer": "CSS"
+  },
+  {
+    "question": "Which of the following is used for version control in Git?",
+    "options": [
+      "Branching",
+      "Merging",
+      "Commit",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a tool used for automating deployment and configuration management?",
+    "options": [
+      "Ansible",
+      "Chef",
+      "Puppet",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used for building mobile apps for iOS?",
+    "options": [
+      "Swift",
+      "Kotlin",
+      "Objective-C",
+      "All of the above"
+    ],
+    "answer": "Swift"
+  },
+  {
+    "question": "Which term describes the process of improving a software application by adding new features or improving existing ones?",
+    "options": [
+      "Refactoring",
+      "Versioning",
+      "Upgrading",
+      "Patching"
+    ],
+    "answer": "Refactoring"
+  },
+  {
+    "question": "Which of the following is a key concept of Agile methodology?",
+    "options": [
+      "Waterfall planning",
+      "Continuous improvement",
+      "Complete documentation",
+      "Rigid deadlines"
+    ],
+    "answer": "Continuous improvement"
+  },
+  {
+    "question": "Which of the following is an example of an immutable data structure in programming?",
+    "options": [
+      "List in Python",
+      "Tuple in Python",
+      "Array in JavaScript",
+      "String in Java"
+    ],
+    "answer": "Tuple in Python"
+  },
+  {
+    "question": "Which type of data structure is a priority queue?",
+    "options": [
+      "Heap",
+      "Stack",
+      "Queue",
+      "Linked List"
+    ],
+    "answer": "Heap"
+  },
+  {
+    "question": "Which of these programming languages is primarily used for iOS app development?",
+    "options": [
+      "Swift",
+      "Kotlin",
+      "Java",
+      "C++"
+    ],
+    "answer": "Swift"
+  },
+  {
+    "question": "Which of the following is a feature of Docker containers?",
+    "options": [
+      "Portability",
+      "Isolation",
+      "Scalability",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which algorithm is often used for recommendation systems?",
+    "options": [
+      "K-Nearest Neighbors",
+      "Support Vector Machine",
+      "Decision Trees",
+      "Linear Regression"
+    ],
+    "answer": "K-Nearest Neighbors"
+  },
+  {
+    "question": "Which of the following is an advantage of using microservices architecture?",
+    "options": [
+      "Easy to scale",
+      "Faster deployment",
+      "Independent service development",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of these is a commonly used NoSQL database?",
+    "options": [
+      "MySQL",
+      "MongoDB",
+      "OracleDB",
+      "PostgreSQL"
+    ],
+    "answer": "MongoDB"
+  },
+  {
+    "question": "Which of the following is an example of a cloud service provider?",
+    "options": [
+      "AWS",
+      "Google Cloud",
+      "Microsoft Azure",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which data structure is most commonly used to implement a graph?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Matrix",
+      "Tree"
+    ],
+    "answer": "Matrix"
+  },
+  {
+    "question": "What is the primary function of a DNS server?",
+    "options": [
+      "Translates domain names to IP addresses",
+      "Manages user authentication",
+      "Filters web traffic",
+      "Encrypts data"
+    ],
+    "answer": "Translates domain names to IP addresses"
+  },
+  {
+    "question": "Which of the following is a programming paradigm based on the concept of objects?",
+    "options": [
+      "Functional programming",
+      "Object-Oriented programming",
+      "Procedural programming",
+      "Logic programming"
+    ],
+    "answer": "Object-Oriented programming"
+  },
+  {
+    "question": "Which of the following is a popular framework for building REST APIs in Node.js?",
+    "options": [
+      "Express",
+      "Django",
+      "Flask",
+      "Spring"
+    ],
+    "answer": "Express"
+  },
+  {
+    "question": "Which of the following is a disadvantage of using cloud storage?",
+    "options": [
+      "Scalability",
+      "Security risks",
+      "Accessibility",
+      "Data redundancy"
+    ],
+    "answer": "Security risks"
+  },
+  {
+    "question": "Which of the following is a well-known version control system?",
+    "options": [
+      "Git",
+      "Mercurial",
+      "SVN",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a statically typed language?",
+    "options": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "Ruby"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "What does the term 'big data' refer to?",
+    "options": [
+      "Data too large to be processed by traditional database systems",
+      "Data from mobile devices",
+      "Data that is well-structured and normalized",
+      "Data from social media"
+    ],
+    "answer": "Data too large to be processed by traditional database systems"
+  },
+  {
+    "question": "Which of the following is an example of a reactive programming library for JavaScript?",
+    "options": [
+      "RxJS",
+      "jQuery",
+      "Express",
+      "Angular"
+    ],
+    "answer": "RxJS"
+  },
+  {
+    "question": "Which type of software testing focuses on the overall functionality of the software?",
+    "options": [
+      "Unit testing",
+      "Integration testing",
+      "System testing",
+      "Acceptance testing"
+    ],
+    "answer": "System testing"
+  },
+  {
+    "question": "Which of the following is used for managing virtual machines in cloud environments?",
+    "options": [
+      "Docker",
+      "VMware",
+      "Kubernetes",
+      "Vagrant"
+    ],
+    "answer": "VMware"
+  },
+  {
+    "question": "Which of the following is a type of machine learning model?",
+    "options": [
+      "Supervised learning",
+      "Unsupervised learning",
+      "Reinforcement learning",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a type of database query used to retrieve data from a table?",
+    "options": [
+      "SELECT",
+      "INSERT",
+      "UPDATE",
+      "DELETE"
+    ],
+    "answer": "SELECT"
+  },
+  {
+    "question": "Which of the following is a feature of Agile methodology?",
+    "options": [
+      "Fixed scope",
+      "Short development cycles",
+      "Large documentation",
+      "All of the above"
+    ],
+    "answer": "Short development cycles"
+  },
+  {
+    "question": "Which of the following is a popular tool for monitoring system performance?",
+    "options": [
+      "New Relic",
+      "Jenkins",
+      "GitHub",
+      "Slack"
+    ],
+    "answer": "New Relic"
+  },
+  {
+    "question": "Which of the following is used to prevent unauthorized access to a computer system?",
+    "options": [
+      "Firewall",
+      "Router",
+      "Switch",
+      "Hub"
+    ],
+    "answer": "Firewall"
+  },
+  {
+    "question": "Which of the following is a method of sorting data in computer science?",
+    "options": [
+      "Bubble Sort",
+      "Merge Sort",
+      "Quick Sort",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a functional programming language?",
+    "options": [
+      "JavaScript",
+      "Scala",
+      "Python",
+      "Java"
+    ],
+    "answer": "Scala"
+  },
+  {
+    "question": "Which of the following is a characteristic of a statically typed language?",
+    "options": [
+      "Types are checked at runtime",
+      "Type errors are caught at compile time",
+      "It does not require variables to be defined",
+      "All of the above"
+    ],
+    "answer": "Type errors are caught at compile time"
+  },
+  {
+    "question": "Which of the following is a feature of cloud computing?",
+    "options": [
+      "On-demand resource provisioning",
+      "Elastic scalability",
+      "Pay-as-you-go pricing",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which algorithm is commonly used for sorting data in ascending order?",
+    "options": [
+      "Quick Sort",
+      "Insertion Sort",
+      "Selection Sort",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a widely used version control system?",
+    "options": [
+      "Git",
+      "Subversion (SVN)",
+      "Mercurial",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a feature of an object-oriented programming language?",
+    "options": [
+      "Inheritance",
+      "Polymorphism",
+      "Encapsulation",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a popular JavaScript library for building user interfaces?",
+    "options": [
+      "React",
+      "Vue.js",
+      "Angular",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to represent a collection of items in a key-value pair structure?",
+    "options": [
+      "Array",
+      "List",
+      "Dictionary",
+      "Stack"
+    ],
+    "answer": "Dictionary"
+  },
+  {
+    "question": "Which of the following is a commonly used database management system?",
+    "options": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a widely used cloud service for storage?",
+    "options": [
+      "Amazon S3",
+      "Google Drive",
+      "Microsoft OneDrive",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following programming languages is known for its use in web development?",
+    "options": [
+      "JavaScript",
+      "PHP",
+      "Ruby",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to automatically deploy and manage applications in cloud environments?",
+    "options": [
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to automate infrastructure provisioning and configuration management?",
+    "options": [
+      "Ansible",
+      "Chef",
+      "Puppet",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a static web page?",
+    "options": [
+      "A portfolio website",
+      "An online store",
+      "A social media site",
+      "A news website"
+    ],
+    "answer": "A portfolio website"
+  },
+  {
+    "question": "Which of the following is a popular framework for building mobile apps for Android?",
+    "options": [
+      "Kotlin",
+      "React Native",
+      "Flutter",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a commonly used algorithm for finding the shortest path in a graph?",
+    "options": [
+      "Dijkstra's Algorithm",
+      "A* Algorithm",
+      "Bellman-Ford Algorithm",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a declarative programming language?",
+    "options": [
+      "SQL",
+      "Python",
+      "JavaScript",
+      "C++"
+    ],
+    "answer": "SQL"
+  },
+  {
+    "question": "Which of the following is used to create a responsive design for websites?",
+    "options": [
+      "CSS Media Queries",
+      "JavaScript",
+      "HTML5",
+      "SVG"
+    ],
+    "answer": "CSS Media Queries"
+  },
+  {
+    "question": "Which data structure is used to implement depth-first search (DFS)?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Tree"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "question": "Which of the following is a primary key feature of machine learning?",
+    "options": [
+      "Data-driven predictions",
+      "Manual configuration of rules",
+      "Static algorithms",
+      "Both a and b"
+    ],
+    "answer": "Data-driven predictions"
+  },
+  {
+    "question": "Which of the following is commonly used to automate software testing?",
+    "options": [
+      "Selenium",
+      "Jenkins",
+      "Travis CI",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a version control system?",
+    "options": [
+      "Git",
+      "Mercurial",
+      "SVN",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to prevent SQL injection attacks?",
+    "options": [
+      "Prepared statements",
+      "Regular expressions",
+      "Input validation",
+      "Both a and c"
+    ],
+    "answer": "Both a and c"
+  },
+  {
+    "question": "Which of the following is an example of a dynamic programming algorithm?",
+    "options": [
+      "Fibonacci sequence",
+      "Merge Sort",
+      "Quicksort",
+      "Breadth-First Search"
+    ],
+    "answer": "Fibonacci sequence"
+  },
+  {
+    "question": "Which of the following is a feature of blockchain technology?",
+    "options": [
+      "Decentralization",
+      "Transparency",
+      "Immutability",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to handle asynchronous operations in JavaScript?",
+    "options": [
+      "Callbacks",
+      "Promises",
+      "Async/Await",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to interact with databases in JavaScript?",
+    "options": [
+      "MongoDB",
+      "MySQL",
+      "SQLite",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a machine learning algorithm used for regression?",
+    "options": [
+      "Linear Regression",
+      "Decision Trees",
+      "K-Nearest Neighbors",
+      "All of the above"
+    ],
+    "answer": "Linear Regression"
+  },
+  {
+    "question": "Which of the following is a feature of Continuous Integration (CI) in software development?",
+    "options": [
+      "Frequent code merging",
+      "Automated testing",
+      "Faster delivery of software",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is the most popular containerization tool?",
+    "options": [
+      "Docker",
+      "Kubernetes",
+      "Vagrant",
+      "Ansible"
+    ],
+    "answer": "Docker"
+  },
+  {
+    "question": "Which of the following is a type of database normalization?",
+    "options": [
+      "1NF (First Normal Form)",
+      "2NF (Second Normal Form)",
+      "3NF (Third Normal Form)",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a common use case for the MapReduce framework?",
+    "options": [
+      "Big Data processing",
+      "Machine learning",
+      "Data visualization",
+      "Web scraping"
+    ],
+    "answer": "Big Data processing"
+  },
+  {
+    "question": "Which of the following is an advantage of using RESTful APIs?",
+    "options": [
+      "Scalability",
+      "Simplicity",
+      "Interoperability",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of an open-source web server software?",
+    "options": [
+      "Apache HTTP Server",
+      "Nginx",
+      "Lighttpd",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a key benefit of using cloud storage?",
+    "options": [
+      "Scalability",
+      "Security",
+      "Accessibility from anywhere",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to manage tasks in a distributed computing system?",
+    "options": [
+      "Hadoop",
+      "Spark",
+      "Apache Kafka",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a method to prevent cross-site scripting (XSS) attacks?",
+    "options": [
+      "Sanitize user input",
+      "Use HTTP-only cookies",
+      "Enable Content Security Policy",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a type of machine learning algorithm?",
+    "options": [
+      "Supervised learning",
+      "Unsupervised learning",
+      "Reinforcement learning",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to store large datasets in a distributed environment?",
+    "options": [
+      "Hadoop HDFS",
+      "Amazon S3",
+      "Google Cloud Storage",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a non-relational database?",
+    "options": [
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to define the structure of a database in SQL?",
+    "options": [
+      "DDL (Data Definition Language)",
+      "DML (Data Manipulation Language)",
+      "DCL (Data Control Language)",
+      "TCL (Transaction Control Language)"
+    ],
+    "answer": "DDL (Data Definition Language)"
+  },
+  {
+    "question": "Which of the following is an example of a web browser?",
+    "options": [
+      "Google Chrome",
+      "Mozilla Firefox",
+      "Microsoft Edge",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to deploy applications in Kubernetes?",
+    "options": [
+      "Pods",
+      "Nodes",
+      "Clusters",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a functional programming language?",
+    "options": [
+      "Haskell",
+      "Scala",
+      "Clojure",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to manage tasks in distributed systems?",
+    "options": [
+      "Apache Kafka",
+      "Apache Spark",
+      "Apache Hadoop",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of an object-oriented programming language?",
+    "options": [
+      "Python",
+      "Java",
+      "C++",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following protocols is used for secure communication over the internet?",
+    "options": [
+      "SSL/TLS",
+      "HTTP",
+      "FTP",
+      "SMTP"
+    ],
+    "answer": "SSL/TLS"
+  },
+  {
+    "question": "Which of the following is a cloud-based database service?",
+    "options": [
+      "Amazon RDS",
+      "Google Cloud SQL",
+      "Microsoft Azure SQL Database",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to automatically scale applications based on demand in cloud environments?",
+    "options": [
+      "Auto Scaling",
+      "Load Balancers",
+      "CloudWatch",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following programming languages is used for iOS app development?",
+    "options": [
+      "Swift",
+      "Java",
+      "Python",
+      "Kotlin"
+    ],
+    "answer": "Swift"
+  },
+  {
+    "question": "Which of the following is a cloud computing service model?",
+    "options": [
+      "IaaS (Infrastructure as a Service)",
+      "PaaS (Platform as a Service)",
+      "SaaS (Software as a Service)",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used to improve the performance of a website?",
+    "options": [
+      "Caching",
+      "CDN (Content Delivery Network)",
+      "Minification",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a distributed version control system?",
+    "options": [
+      "Git",
+      "SVN",
+      "Mercurial",
+      "All of the above"
+    ],
+    "answer": "Git"
+  },
+  {
+    "question": "Which of the following is used to query data from a database?",
+    "options": [
+      "SQL",
+      "NoSQL",
+      "GraphQL",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a type of cloud storage?",
+    "options": [
+      "Object storage",
+      "Block storage",
+      "File storage",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a task performed by a compiler?",
+    "options": [
+      "Translating source code into machine code",
+      "Executing the program",
+      "Managing memory",
+      "All of the above"
+    ],
+    "answer": "Translating source code into machine code"
+  },
+  {
+    "question": "Which of the following is used to visualize data in machine learning?",
+    "options": [
+      "Matplotlib",
+      "Seaborn",
+      "Tableau",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a cloud computing service provider?",
+    "options": [
+      "Amazon Web Services",
+      "Google Cloud Platform",
+      "Microsoft Azure",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of an embedded system?",
+    "options": [
+      "Smartphone",
+      "Microwave oven",
+      "Digital camera",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used for real-time communication between a client and server?",
+    "options": [
+      "WebSocket",
+      "REST API",
+      "GraphQL",
+      "None of the above"
+    ],
+    "answer": "WebSocket"
+  },
+  {
+    "question": "Which of the following is a key principle of RESTful APIs?",
+    "options": [
+      "Stateless communication",
+      "Resource-based architecture",
+      "Uniform interface",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a commonly used database query language?",
+    "options": [
+      "SQL",
+      "GraphQL",
+      "MongoDB Query Language",
+      "All of the above"
+    ],
+    "answer": "SQL"
+  },
+  {
+    "question": "Which of the following is a type of software testing?",
+    "options": [
+      "Unit testing",
+      "Integration testing",
+      "End-to-end testing",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a NoSQL database?",
+    "options": [
+      "MongoDB",
+      "Cassandra",
+      "Redis",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a popular JavaScript framework?",
+    "options": [
+      "React",
+      "Angular",
+      "Vue.js",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is used for Continuous Integration and Continuous Deployment (CI/CD)?",
+    "options": [
+      "Jenkins",
+      "GitLab CI",
+      "CircleCI",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a widely used front-end JavaScript framework?",
+    "options": [
+      "Angular",
+      "React",
+      "Vue.js",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is a widely used back-end JavaScript runtime environment?",
+    "options": [
+      "Node.js",
+      "Django",
+      "Flask",
+      "Spring Boot"
+    ],
+    "answer": "Node.js"
+  },
+  {
+    "question": "Which of the following is used for cloud-based data analytics?",
+    "options": [
+      "Google BigQuery",
+      "Amazon Redshift",
+      "Microsoft Azure Synapse Analytics",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a hybrid mobile app framework?",
+    "options": [
+      "React Native",
+      "Flutter",
+      "Ionic",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  }
+]
