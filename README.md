@@ -94,21 +94,20 @@ Possible future improvements include:
 
 ## 📸 Screenshots
 
-### 🏠 Quiz Interface
+### 📝 Questions & Answers
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/45e39e2c-9dd8-46da-859c-da0008ba1f21" width="45%">
   <img src="https://github.com/user-attachments/assets/becc3cfa-cd25-4723-a88e-d5355228639f" width="45%">
 </p>
 
-### 📝 Questions & Answers
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7257dc4a-0cc9-4d22-81f2-96c14b06fe1a" width="45%">
   <img src="https://github.com/user-attachments/assets/79d15095-04fe-4439-9373-c7bc8a9f6091" width="45%">
 </p>
 
-### ⏱️ Quiz Progress & Timer
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e2a5d0e-c5de-4b54-a69b-31b99a98114a" width="80%">
